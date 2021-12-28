@@ -51,7 +51,7 @@ Hospital staff, the constant need to manually monitor the level of bottles is av
 
 <p align="center">
   <img align="center" width="300" height="600" src="https://user-images.githubusercontent.com/46783288/147535653-8329f9d0-fc0c-48f2-892f-1310864bffb6.jpg">
-  <img align="center" width="300" height="600" src="  https://user-images.githubusercontent.com/46783288/147535720-e7371a78-4e07-4ebf-9c47-7e75755b93ee.jpg">
+  <img align="center" width="300" height="600" src="https://user-images.githubusercontent.com/46783288/147535720-e7371a78-4e07-4ebf-9c47-7e75755b93ee.jpg">
 </p>
 
 
